@@ -44,8 +44,4 @@ Telegram-бот для автоматического аудита сайтов 
    AI_MODE = "local"  # или "api"
    API_KEY = "sk-..."  # если AI_MODE = "api"
    BASE_URL = "https://api.openai.com/v1"<img width="1977" height="934" alt="запуск бота" src="https://github.com/user-attachments/assets/92a380d4-b8ae-4017-a5b6-7b01ac7a7286" />
-<img width="2105" height="1270" alt="ссылка" src="https://github.com/user-attachments/assets/98760e77-8158-4378-b8a8-dfec3f0217dd" />
-<img width="2107" height="1466" alt="ответ" src="https://github.com/user-attachments/assets/d460eea5-1e74-44a2-a72f-32d708f177f1" />
-<img width="2183" height="1355" alt="ответ2" src="https://github.com/user-attachments/assets/fd68dfef-3970-4e8d-8406-8a4354032a4b" />
-<img width="2013" height="1440" alt="ответ 3" src="https://github.com/user-attachments/assets/c71b0823-7f5b-4bc6-80f6-04b1d19e334e" />
-<img width="2124" height="1591" alt="скачать pdf" src="https://github.com/user-attachments/assets/55f6ca33-330b-4e6e-9897-b2412adc8b06" />
+
